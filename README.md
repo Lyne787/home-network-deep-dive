@@ -28,6 +28,7 @@ The Internet Service Provider (ISP) assigns a public IP address to the router, w
 
 ### Role of the ISP
 The ISP connects the home router to the wider internet infrastructure. Data travels from the device to the router, then to the ISP’s network, and from there to its destination server.
+![pexels-googledeepmind-17483871](https://github.com/user-attachments/assets/4882a924-2b2b-4e4f-bb0d-057e66bc0975)
 
 ### Domain Name System (DNS)
 Humans access websites using domain names (e.g., example.com), but computers communicate using IP addresses.  
@@ -68,6 +69,7 @@ In larger homes or spaces with obstacles, extending Wi-Fi coverage becomes essen
 ### Trade-offs
 - Mesh networks generally provide better performance and seamless coverage but are more expensive.
 - Range extenders are cheaper but may introduce performance limitations and require manual switching between networks.
+- ![pexels-tara-winstead-7723354](https://github.com/user-attachments/assets/883bdd8e-812b-491a-856f-fbbd0f99536f)
 
 Understanding these options allows homeowners to make informed choices based on space, performance needs, and budget.
 
@@ -90,6 +92,7 @@ Securing a home network is essential to protect personal data and connected devi
 - Virtual LANs allow separation of network traffic into different segments.
 - Example: Keeping IoT devices on a separate VLAN from laptops prevents compromised smart devices from affecting important systems.
 - Even basic segmentation improves security and network management.
+![pexels-thepaintedsquare-10024568](https://github.com/user-attachments/assets/e8470e20-504a-444d-8c48-b4784e14edb9)
 
 ### Regular Updates
 - Router firmware and connected devices should be updated to patch vulnerabilities.
